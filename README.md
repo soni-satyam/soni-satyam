@@ -1,7 +1,7 @@
 <div align="center">
  
   
-# 👋 Hi, I'm Satyam Soni
+# 👋 Hi, I'm Satyam
  
  
 ### 🚀 Code Craftsman | Backend Alchemist | IIT Delhi
