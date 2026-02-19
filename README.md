@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyam.soni.iitd@gmail.com)
 
 
-<img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/a592d47e-45aa-4a50-8a36-b872e9041bfb" />
+<img width="450" height="140" alt="image" src="https://github.com/user-attachments/assets/a592d47e-45aa-4a50-8a36-b872e9041bfb" />
 </div>
 
 
@@ -86,7 +86,7 @@
 <tr>
 <td width="50%">
 
-### 🏢 [API-Driven Classroom Management](https://github.com/satyamsoni/API-Driven-Classroom-Management-System)
+### 🏢 [API-Driven Classroom Management](https://github.com/soni-satyam/API-Driven-Classroom-Management-System)
 **Backend-Centric Platform with Role-Based Access**
 
 🔹 Built with Django, DRF, PostgreSQL, Redis  
@@ -101,7 +101,7 @@
 </td>
 <td width="50%">
 
-### 🌐 [Full-Stack Django-React App](https://github.com/satyamsoni/Full-Stack-Web-Application-using-Django-React)
+### 🌐 [Full-Stack Django-React App](https://github.com/soni-satyam/Full-Stack-Web-Application-using-Django-React)
 **Secure Web Application with Modern Architecture**
 
 🔹 Django REST + React + MongoDB  
@@ -123,7 +123,7 @@
 <tr>
 <td width="50%">
 
-### 🧬 [TFADS Bioanalysis Platform](https://github.com/satyamsoni/Biomedical-RAG)
+### 🧬 [TFADS Bioanalysis Platform](https://github.com/soni-satyam/Biomedical-RAG)
 **Cancer Drug Screening System**
 
 🔹 Django + React + ML pipelines  
@@ -138,7 +138,7 @@
 </td>
 <td width="50%">
 
-### 🛒 [Microservices E-Commerce](https://github.com/satyamsoni/Microservices-E-Commerce)
+### 🛒 [Microservices E-Commerce](https://github.com/soni-satyam/Microservices-E-Commerce)
 **Distributed Spring Boot Architecture**
 
 🔹 Spring Boot microservices  
@@ -213,7 +213,7 @@ I'm always interested in collaborating on challenging backend projects, discussi
 
 ### 💡 "Building scalable systems, one API at a time"
 
-![Profile Views](https://komarev.com/ghpvc/?username=Satyam9810&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=soni-satyam&color=blueviolet&style=flat-square)
 
 ⭐️ From [satyamsoni](https://github.com/soni-satyam)
 
