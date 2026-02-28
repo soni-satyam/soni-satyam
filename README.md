@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="280" height="220" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
-- 🎓 **B.Tech in Biochemical Engineering** @ **IIT Delhi**
+- 🎓 **B.Tech in Biochemical Engineering and Biotechnology** @ **IIT Delhi**
 - 📍 Based in **Delhi, India**
 - 💼 Specializing in **Backend & Full-Stack Development**
 - 🔭 Building **high-performance backend systems** and **scalable applications**
